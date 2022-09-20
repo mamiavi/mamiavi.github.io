@@ -1,0 +1,176 @@
+{
+    "navbar":{
+        "home":"Inicio",
+        "projects":"Porfolio",
+        "aboutme":"Sobre mí",
+        "contact":"Contacto"
+    },
+
+    "home":{
+        "welcome":"Bienvenido",
+        "position":"Ingeniero en Geomática",
+        "first_paragraph":"¡Hola! Soy Manuel Miñambres Vidal y te doy la bienvenida a mi web personal. Aquí encontrarás información sobre mi carrera profesional así como sobre mí mismo.",
+        "second_paragraph":{
+            "first_sentence":"Te invito a navegar por todas las secciones para que veas lo que he publicado hasta el momento. Información sobre mis estudios, experiencia laboral previa o proyectos personales se encuentran en la sección ",
+            "second_sentence":" , mientras que en la sección ",
+            "third_sentence":" ,hay información más personal acerca de mi trayectoria, habilidades y competencias. Por último, en caso de querer contactar conmigo puedes usar cualquiera de las vías mostradas en la sección ",
+            "forth_sentence":"."
+        },
+        "third_paragraph":"¡Hasta la vista!"
+    },
+
+    "projects":{
+        "title":"Todos mis estudios, experiencia previa y proyectos relacionados con el mundo de la geomática",
+        
+        "dynamic_map":{
+            "title":"Mapa interactivo",
+            "body":"Evolution of the unemployment in Spain from 2007 to 2020. Con motivo de la asignatura Space-time Visualization of Statistical Data durante mis estudios en Karlsruhe, Alemania. Mapa interactivo simple para visualizar datos de desempleo de múltiples formas."
+        },
+
+        "pyro":{
+            "title":"Desarrollador SIG",
+            "body":"En Pyro. Programación de geoprocesos y scripts para trabajar con datos de teledetección (Sentinel-2 & Sentinel-3) para tareas de extinción de incendios.",
+            "body_1":"En ",
+            "body_2":". Programación de geoprocesos y scripts para trabajar con datos de teledetección (Sentinel-2 & Sentinel-3) para tareas de extinción de incendios."
+        },
+
+        "hka_master":{
+            "title":"Master's Degree in Geomatics Science",
+            "body":"Alumno de máster universitario, presencial durante un año, en la Hoschule Karlsruhe (HKA) / University of Applied Science, Alemania. Programa de Doble Titulación de Máster ofrecido conjuntamente por la University of Applied Science de Karlsruhe y por la Universidad Politécnica de Valencia.",
+            "body_1":"Alumno de máster universitario, presencial durante un año, en la ",
+            "body_2":", Alemania. Programa de Doble Titulación de Máster ofrecido conjuntamente por la ",
+            "body_3":" de Karlsruhe y por la ",
+            "body_4":"."
+        },
+
+        "ictcc":{
+            "title":"Analista SIG",
+            "body":"En Information & Communication Technologies vs Climate Change, grupo de investigación del instituto ITACA. Procesado de datos, análisis geoespacial y producción de cartografía para determinar la vulnerabilidad estática frente a incendios en la Comunidad Valenciana.",
+            "body_1":"En ",
+            "body_2":", grupo de investigación del ",
+            "body_3":". Procesado de datos, análisis geoespacial y producción de cartografía para determinar la vulnerabilidad estática frente a incendios en la Comunidad Valenciana."
+        },
+
+        "conselleria_urban":{
+            "title":"Técnico SIG",
+            "body":"Digitalización, georeferenciación y análisis de datos espaciales para actualizar y mantener la Plataforma Urbanística Digital, gestionada por la "
+        },
+
+        "upv_master":{
+            "title":"Máster en Ingeniería Geomática y Geoinformación",
+            "body":"Se estudian las técnicas de adquisición de datos; el desarrollo de aplicaciones SIG; geoportales y dispositivos móviles; la gestión de bases de datos espaciales; el análisis y la modelización medioambiental y territorial mediante teledetección y lidar; tecnologías de posicionamiento, navegación, prospección y documentación del patrimonio arquitectónico, así como la representación y visualización cartográfica en entornos 3D."
+        },
+
+        "agrogdb":{
+            "title":"AgroGDB",
+            "body":"Aplicación para dispositivos móviles para el inventariado de elementos de ingeniería rural en campo y el posterior envío de dicha información a una base de datos."
+        },
+
+        "conselleria_agro":{
+            "title":"Técnico SIG",
+            "body":". Apoyo en la actualización y organización de la información del GIS de los Regadíos Valencianos, y colaboración en la realización de una Infraestructura de Datos Espaciales de la misma, así como producción de cartografía dentro del ámbito de la ingeniería rural para la toma de decisiones.",
+            "body_1":"En ",
+            "body_2":". Apoyo en la actualización y organización de la información del ",
+            "body_3":", y colaboración en la realización de una Infraestructura de Datos Espaciales de la misma, así como producción de cartografía dentro del ámbito de la ingeniería rural para la toma de decisiones.  "
+        },
+
+        "upv_degree":{
+            "title":"Grado en Ingeniería Geomática y Topografía",
+            "body":"En la Universidad Politécnica de Valencia. Durante mis estudios fui delegado y miembro de la delegación de estudiantes de mi escuela, así como voluntario en el proyecto NSD+.",
+            "body_1":"En la ",
+            "body_2":". Durante mis estudios fui delegado y miembro de la delegación de estudiantes de mi escuela, así como voluntario en el proyecto ",
+            "body_3":"." 
+        },
+    
+        "tools":"Herramientas",
+        "pyro_strong":"Pyro",
+        "hka_strong":"Hoschule Karlsruhe (HKA) / University of Applied Science",
+        "ictcc_strong":"Information & Communication Technologies vs Climate Change",
+        "itaca_strong":"Instituto ITACA",
+        "conselleria_urbanismo_strong":"Dirección General de Urbanismo de la Comunidad Valenciana",
+        "conselleria_agro_strong":"Conselleria de Agricultura, Desarrollo Rural, Emergencia Climática y Transición Ecológica",
+        "conselleria_agro_GIS_strong":"GIS de los Regadíos Valencianos",
+        "upv_strong":"Universidad Politécnica de Valencia",
+        "nsd+_strong":"Proyecto NSD+"
+
+    },
+
+    "aboutme":{
+        "title":"¡Hola!",
+        "first_paragraph":{
+            "first_sentence":"Soy ",
+            "second_sentence":",Ingeniero Geoespacial que acutalmente está trabajando por cuenta propia mientras termina su tesis final de master en Ingeniería Geomática y Geoinformación."
+        },
+        "second_paragraph":"Me considero una persona trabajadora que siempre está de buen humor y al que le gusta resolver problemas y trabajar de forma competitiva para mejorar la vida de mi entorno en la medida de lo posible. Durante mi tiempo libre disfruto leyendo libros, tocando la guitarra o explorando la naturaleza montado en mi bicicleta de montaña. También considero importante pasar tiempo con mi familia y amigos.",
+        "third_paragraph":{
+            "first_sentence":"Puedes encontrar más información acerca de las tecnologías con las que he trabajado, así como de mis habilidades ",
+            "second_sentence":"a continuación"
+        },
+        "master":"Experto",
+        "skilled":"Aptitudes",
+        "languages":"Idiomas",
+        "spanish":"Español (nativo)",
+        "english":"Inglés (C1)"
+    },
+
+    "contact":{
+        "title":"¿Deseas ponerte en contacto conmigo?",
+        "subtitle":"No lo dudes y usa cualquiera de las vías disponibles:"
+    },
+
+    "img":{
+        
+        "graduacion_1":{
+            "src":"graduacion_1",
+            "title":"Discurso de graduación", 
+            "body":"Con motivo del acto de graduación tras la finalización de mis estudios"
+        },
+        "IGSM_Warsaw":{
+            "src":"IGSM_Warsaw",
+            "title":"IGSM Varsovia 2019",
+            "body":"Primera participación en el evento IGSM"
+        },
+        "heremaps_hackathon":{        
+            "src":"heremaps_hackathon",
+            "title":"Hackathon",
+            "body":"Participación en un hackathon organizado por HERE Technologies"
+        },
+        "gnss_field":{
+            "src":"gnss_field",
+            "title":"Práctica de campo GNSS",
+            "body":"Durante mis estudios de grado"
+        },
+        "IGSM_Hannover_1":{
+            "src":"IGSM_Hannover_1",
+            "title":"IGSM Hannover 2022",
+            "body":"Segunda participación en el evento IGSM"
+        },
+        "IGSM_Hannover_2":{
+            "src":"IGSM_Hannover_2",
+            "title":"IGSM Hannover 2022",
+            "body":""
+        },
+        "Karlsruhe_1":{
+            "src":"Karlsruhe_1",
+            "title":"Presentación de proyecto",
+            "body":"Durante mis estudios en Alemania. Presentación durante el workshop 'Sense of Place - Web Mapping'"
+        },
+        "Karlsruhe_2":{
+            "src":"Karlsruhe_2",
+            "title":"Presentación de proyecto",
+            "body":""
+        },
+        "student_representation":{
+            "src":"student_representation",
+            "title":"Representación estudiantil",
+            "body":"Acto bienvenida delegaciones de alumnos"
+        },
+        "Conselleria":{
+            "src":"Conselleria",
+            "title":"Primeras prácticas",
+            "body":"Como ayudante SIG en la Consellería de Agricultura"
+        }
+
+    }
+
+}

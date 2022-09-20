@@ -1,0 +1,177 @@
+{
+    "navbar":{
+        "home":"Home",
+        "projects":"Portfolio",
+        "aboutme":"About me",
+        "contact":"Contact"
+    },
+
+    "home":{
+        "welcome":"Welcome",
+        "position":"Geomatics Engineer",
+        "first_paragraph":"Hello! I am Manuel Miñambres Vidal and I welcome you to my personal website. Here you will find information about my professional career as well as about myself.",
+        "second_paragraph":{
+            "first_sentence":"I invite you to browse through all the sections to see what I have published so far. Information about studies, previous work experience and project-sides can be found in ",
+            "second_sentence":" section, while in ",
+            "third_sentence":" section there is more personal information about my background, abilities and skills. Last but not least, in case you want to contact me you can use any of the ways shown in ",
+            "forth_sentence":" section."
+        },
+        "third_paragraph":"See you around!"
+    },
+
+    "projects":{
+        "title":"All my geomatics related previous studies, experience or projects",
+        
+        "dynamic_map":{
+            "title":"Dynamic map",
+            "body":"Evolution of the unemployment in Spain from 2007 to 2020. On the occasion of the course Space-time Visualization of Statistical Data that I took during my studies in Karlsruhe, Germany. A simple dynamic map to visualize unemployment data in different ways."
+        },
+
+        "pyro":{
+            "title":"GIS Developer",
+            "body":"At Pyro. Programming geoprocessing tools and scripts to work with remote sensing data (Sentinel-2 & Sentinel-3) for firefighting tasks.",
+            "body_1":"At ",
+            "body_2":". Programming geoprocessing tools and scripts to work with remote sensing data (Sentinel-2 & Sentinel-3) for firefighting tasks."
+        },
+
+        "hka_master":{
+            "title":"Master's Degree in Geomatics Science",
+            "body":"One-year on-site Master's degree student at Hoschule Karlsruhe (HKA) / University of Applied Science, Germany. Dual Master's Degree Program offered jointly by the University of Applied Science of Karlsruhe and the Polytechnical University of Valencia.",
+            "body_1":"One-year on-site Master's degree student at ",
+            "body_2":", Germany. Dual Master's Degree Program offered jointly by the ",
+            "body_3":" and the ",
+            "body_4":"."
+        },
+
+        "ictcc":{
+            "title":"GIS Analyst",
+            "body":"At Information & Communication Technologies vs Climate Change, an ITACA Institute research group. Data processing, geospatial analysis and production of cartography to determinate the static vulnerability to fires in Valencian Region.",
+            "body_1":"At ",
+            "body_2":", an ",
+            "body_3":" research group. Data processing, geospatial analysis and production of cartography to determinate the static vulnerability to fires in Valencian Region."
+        },
+
+        "conselleria_urban":{
+            "title":"GIS Assistant",
+            "body":"Digitization, georeferencing and analysis of spatial data for updating and maintenance of the Urban Planning Platform managed by the"
+        },
+
+        "upv_master":{
+            "title":"Master's Degree in Geomatics Engineering and Geoinformation",
+            "body":"The programme explores data acquisition techniques; the development of GIS applications; geoportals and mobile devices; management of spatial databases; environmental and land use analysis and modelling with remote sensing and lidar; positioning technologies, navigation, surveying and documentation of architectural heritage; and 3D cartographic representation and visualisation."
+        },
+
+        "agrogdb":{
+            "title":"AgroGDB",
+            "body":"Mobile application to inventariate rural engineering elements directly in field and send that information to a database."
+        },
+
+        "conselleria_agro":{
+            "title":"GIS Assistant",
+            "body":"At Conselleria de Agricultura, Desarrollo Rural, Emergencia Climática y Transición Ecológica. Assisting, updating and managing Valencia's Irrigation System GIS data, helping in the construction of the Spatial Data Infrastructure (SDI) and generating cartography in the field of rural engineering for decision making.",
+            "body_1":"At ",
+            "body_2":". Assisting, updating and managing ",
+            "body_3":" data, helping in the construction of the Spatial Data Infrastructure (SDI) and generating cartography in the field of rural engineering for decision making."
+        },
+
+        "upv_degree":{
+            "title":"Bachelor's Degree in Geomatic Engineering and Surveying Engineering",
+            "body":"At Polytechnical University of Valencia. During my studies I was an active member of the student representation, as well as volunteering at Proyecto NSD+.",
+            "body_1":"At ",
+            "body_2":". During my studies I was an active member of the student representation, as well as volunteering at ",
+            "body_3":"."
+        },
+    
+        "tools":"Tools",
+        "pyro_strong":"Pyro",
+        "hka_strong":"Hoschule Karlsruhe (HKA) / University of Applied Science",
+        "ictcc_strong":"Information & Communication Technologies vs Climate Change",
+        "itaca_strong":"ITACA Institute",
+        "conselleria_urbanismo_strong":"Valencia's General Department of Urban Planning",
+        "conselleria_agro_strong":"Conselleria de Agricultura, Desarrollo Rural, Emergencia Climática y Transición Ecológica",
+        "conselleria_agro_GIS_strong":"Valencia's Irrigation System GIS",
+        "upv_strong":"Polytechnical University of Valencia",
+        "nsd+_strong":"Proyecto NSD+"
+
+
+    },
+
+    "aboutme":{
+        "title":"Hello!",
+        "first_paragraph":{
+            "first_sentence":"I am",
+            "second_sentence":",a Geospatial Engineer that currently is working as a freelancer while finishing his Master's thesis in Geomatics Engineering and Geoinformation."
+        },
+        "second_paragraph":"I consider myself a friendly hard-working person that loves to solve problems and work competitively to try to improve the life of my community as much as possible. During my free time I enjoy reading books, playing guitar and exploring nature while riding my mountain bike. I also find it very important to spend time with my family and friends.",
+        "third_paragraph":{
+            "first_sentence":"Find more about the technologies I have worked with as well as my abilities ",
+            "second_sentence":"below"
+        },
+        "master":"Master",
+        "skilled":"Skilled",
+        "languages":"Language Skills",
+        "spanish":"Spanish (Native)",
+        "english":"English (C1)"
+    },
+
+    "contact":{
+        "title":"Want to reach me?",
+        "subtitle":"Don't hesitate and use the following ways:"
+    },
+
+    "img":{
+        
+        "graduacion_1":{
+            "src":"graduacion_1",
+            "title":"Commencement speech", 
+            "body":"On the occasion of my bachelor's degree graduation"
+        },
+        "IGSM_Warsaw":{
+            "src":"IGSM_Warsaw",
+            "title":"IGSM Warsaw 2019",
+            "body":"First participation in the event IGSM"
+        },
+        "heremaps_hackathon":{        
+            "src":"heremaps_hackathon",
+            "title":"Hackathon",
+            "body":"Organized by HERE Technologies"
+        },
+        "gnss_field":{
+            "src":"gnss_field",
+            "title":"GNSS field measures",
+            "body":"During my bachelor's degree"
+        },
+        "IGSM_Hannover_1":{
+            "src":"IGSM_Hannover_1",
+            "title":"IGSM Hannover 2022",
+            "body":"Second participation in the event IGSM"
+        },
+        "IGSM_Hannover_2":{
+            "src":"IGSM_Hannover_2",
+            "title":"IGSM Hannover 2022",
+            "body":""
+        },
+        "Karlsruhe_1":{
+            "src":"Karlsruhe_1",
+            "title":"Project presentation",
+            "body":"During my studies in Germany. Presentation on the workshop 'Sense of Place - Web Mapping'"
+        },
+        "Karlsruhe_2":{
+            "src":"Karlsruhe_2",
+            "title":"Project presentation",
+            "body":""
+        },
+        "student_representation":{
+            "src":"student_representation",
+            "title":"Student representation",
+            "body":"Welcome ceremony for students delegation"
+        },
+        "Conselleria":{
+            "src":"Conselleria",
+            "title":"First internship",
+            "body":"At Conselleria de Agricultura"
+        }
+
+    }
+
+}
