@@ -27,6 +27,12 @@
             "body":"Evolution of the unemployment in Spain from 2007 to 2020. On the occasion of the course Space-time Visualization of Statistical Data that I took during my studies in Karlsruhe, Germany. A simple dynamic map to visualize unemployment data in different ways."
         },
 
+        "gilytics":{
+            "title":"Intern",
+            "body_1":"At ",
+            "body_2":" as GIS intern. Assisting the GIS team as well as testing the Pathfinder tool."
+        },
+
         "pyro":{
             "title":"GIS Developer",
             "body":"At Pyro. Programming geoprocessing tools and scripts to work with remote sensing data (Sentinel-2 & Sentinel-3) for firefighting tasks.",
@@ -92,8 +98,8 @@
         "conselleria_agro_strong":"Conselleria de Agricultura, Desarrollo Rural, Emergencia Climática y Transición Ecológica",
         "conselleria_agro_GIS_strong":"Valencia's Irrigation System GIS",
         "upv_strong":"Polytechnical University of Valencia",
-        "nsd+_strong":"Proyecto NSD+"
-
+        "nsd+_strong":"Proyecto NSD+",
+        "gilytics_strong":"Gilytics"
 
     },
 
@@ -101,7 +107,7 @@
         "title":"Hello!",
         "first_paragraph":{
             "first_sentence":"I am",
-            "second_sentence":", a Geospatial Engineer that currently is working as a freelancer while finishing his Master's thesis in Geomatics Engineering and Geoinformation."
+            "second_sentence":", a Geospatial Engineer that currently is on an intern at Gilytics while finishing his Master's thesis in Geomatics Engineering and Geoinformation."
         },
         "second_paragraph":"I consider myself a friendly hard-working person that loves to solve problems and work competitively to try to improve the life of my community as much as possible. During my free time I enjoy reading books, playing guitar and exploring nature while riding my mountain bike. I also find it very important to spend time with my family and friends.",
         "third_paragraph":{
