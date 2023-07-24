@@ -22,6 +22,7 @@
     "projects":{
         "title":"Todos mis estudios, experiencia previa y proyectos relacionados con el mundo de la geomática",
         
+<<<<<<< HEAD
         "gilytics":{
             "title":"Becario",
             "body_1":"En ",
@@ -41,6 +42,8 @@
             "body":"Aplicación para IOS y Android para la geolocalización de animal a través de un emisor fabricado por "
         },
 
+=======
+>>>>>>> parent of baf1afd (Production V1.3)
         "dynamic_map":{
             "title":"Mapa interactivo",
             "body":"Evolution of the unemployment in Spain from 2007 to 2020. Con motivo de la asignatura Space-time Visualization of Statistical Data durante mis estudios en Karlsruhe, Alemania. Mapa interactivo simple para visualizar datos de desempleo de múltiples formas."
@@ -111,10 +114,14 @@
         "conselleria_agro_strong":"Conselleria de Agricultura, Desarrollo Rural, Emergencia Climática y Transición Ecológica",
         "conselleria_agro_GIS_strong":"GIS de los Regadíos Valencianos",
         "upv_strong":"Universidad Politécnica de Valencia",
+<<<<<<< HEAD
         "nsd+_strong":"Proyecto NSD+",
         "gilytics_strong":"Gilytics",
         "igsm_app_strong":"IGSM Valencia",
         "berkut_strong":"Berkut"
+=======
+        "nsd+_strong":"Proyecto NSD+"
+>>>>>>> parent of baf1afd (Production V1.3)
 
     },
 
@@ -122,7 +129,7 @@
         "title":"¡Hola!",
         "first_paragraph":{
             "first_sentence":"Soy ",
-            "second_sentence":", Ingeniero Geoespacial que acutalmente está de prácticas en Gilytics mientras termina su tesis final de master en Ingeniería Geomática y Geoinformación."
+            "second_sentence":", Ingeniero Geoespacial que acutalmente está trabajando por cuenta propia mientras termina su tesis final de master en Ingeniería Geomática y Geoinformación."
         },
         "second_paragraph":"Me considero una persona trabajadora que siempre está de buen humor y al que le gusta resolver problemas y trabajar de forma competitiva para mejorar la vida de mi entorno en la medida de lo posible. Durante mi tiempo libre disfruto leyendo libros, tocando la guitarra o explorando la naturaleza montado en mi bicicleta de montaña. También considero importante pasar tiempo con mi familia y amigos.",
         "third_paragraph":{
