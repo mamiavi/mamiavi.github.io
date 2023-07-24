@@ -30,7 +30,20 @@
         "gilytics":{
             "title":"Intern",
             "body_1":"At ",
-            "body_2":" as GIS intern. Assisting the GIS team as well as testing the Pathfinder tool."
+            "body_2":" as GIS intern. Assisting both the GIS and Back End team in the development, and testing of Pathfinder."
+        },
+
+        "igsm_app":{
+            "title":"City Rally App",
+            "body_1":"On the occasion of the ",
+            "body_2":" I developed an application that guides the user to 15 different POI around Valencia. When they arrive at each of them, an audio with a brief explanation is available along with a one-question test to check if the participant has paid attention. In case you build the ",
+            "bosy_3":"app",
+            "body_4":", a code to login is needed, so I leave here a few: AYUUED, SY98PF, RBEJ7N, Q1SKLV."
+        },
+
+        "berkut_app":{
+            "title":"Berkut App",
+            "body":"App in both IOS and Android for the geolocation of animals using an emitter produced by "
         },
 
         "pyro":{
@@ -99,7 +112,9 @@
         "conselleria_agro_GIS_strong":"Valencia's Irrigation System GIS",
         "upv_strong":"Polytechnical University of Valencia",
         "nsd+_strong":"Proyecto NSD+",
-        "gilytics_strong":"Gilytics"
+        "gilytics_strong":"Gilytics",
+        "igsm_app_strong":"IGSM Valencia",
+        "berkut_strong":"Berkut"
 
     },
 
