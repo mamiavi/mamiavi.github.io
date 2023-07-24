@@ -31,20 +31,7 @@
         "gilytics":{
             "title":"Intern",
             "body_1":"At ",
-            "body_2":" as GIS intern. Assisting both the GIS and Back End team in the development, and testing of Pathfinder."
-        },
-
-        "igsm_app":{
-            "title":"City Rally App",
-            "body_1":"On the occasion of the ",
-            "body_2":" I developed an application that guides the user to 15 different POI around Valencia. When they arrive at each of them, an audio with a brief explanation is available along with a one-question test to check if the participant has paid attention. In case you build the ",
-            "bosy_3":"app",
-            "body_4":", a code to login is needed, so I leave here a few: AYUUED, SY98PF, RBEJ7N, Q1SKLV."
-        },
-
-        "berkut_app":{
-            "title":"Berkut App",
-            "body":"App in both IOS and Android for the geolocation of animals using an emitter produced by "
+            "body_2":" as GIS intern. Assisting the GIS team as well as testing the Pathfinder tool."
         },
 
 =======
@@ -116,6 +103,7 @@
         "upv_strong":"Polytechnical University of Valencia",
 <<<<<<< HEAD
         "nsd+_strong":"Proyecto NSD+",
+<<<<<<< HEAD
         "gilytics_strong":"Gilytics",
         "igsm_app_strong":"IGSM Valencia",
         "berkut_strong":"Berkut"
@@ -123,6 +111,9 @@
         "nsd+_strong":"Proyecto NSD+"
 
 >>>>>>> parent of baf1afd (Production V1.3)
+=======
+        "gilytics_strong":"Gilytics"
+>>>>>>> parent of f4d191e (Production V1.4)
 
     },
 

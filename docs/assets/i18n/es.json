@@ -26,20 +26,7 @@
         "gilytics":{
             "title":"Becario",
             "body_1":"En ",
-            "body_2":" como becario SIG. Apoyo tanto al equipo de GIS como de Back End en el desarrollo y testeo del software Pathfinder."
-        },
-
-        "igsm_app":{
-            "title":"Aplicación City Rally",
-            "body_1":"Con motivo del evento ",
-            "body_2":" Desarrollé una aplicación que guía al usuario hasta 15 diferentes sitios de interés de la ciudad de Valencia. Cuando el usuario se acerca a cada uno de ellos, un audio con una breve explicación y un cuestionario son mostrados. En caso de querer probar la ",
-            "body_3":"aplicación",
-            "body_4":", es necesario usar uno de los siguientes códigos: AYUUED, SY98PF, RBEJ7N, Q1SKLV"
-        },
-
-        "berkut_app":{
-            "title":"Aplicación para Berkut",
-            "body":"Aplicación para IOS y Android para la geolocalización de animal a través de un emisor fabricado por "
+            "body_2":". Ayudando al equipo GIS, así como testeando la herramienta Pathfinder."
         },
 
 =======
@@ -116,12 +103,16 @@
         "upv_strong":"Universidad Politécnica de Valencia",
 <<<<<<< HEAD
         "nsd+_strong":"Proyecto NSD+",
+<<<<<<< HEAD
         "gilytics_strong":"Gilytics",
         "igsm_app_strong":"IGSM Valencia",
         "berkut_strong":"Berkut"
 =======
         "nsd+_strong":"Proyecto NSD+"
 >>>>>>> parent of baf1afd (Production V1.3)
+=======
+        "gilytics_strong":"Gilytics"
+>>>>>>> parent of f4d191e (Production V1.4)
 
     },
 
